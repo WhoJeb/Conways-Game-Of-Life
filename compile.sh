@@ -1,3 +1,3 @@
-gcc main.c -Wall -o test
+gcc src/main.c -Wall -o test
 
 chmod +x test
